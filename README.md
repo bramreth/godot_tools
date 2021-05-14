@@ -1,21 +1,23 @@
 # godot_tools
-frequently used tools to be used as a submodule for new Godot projects
+Welcome to the compendium of my most frequently used frequently used tools and assets. This acts as a submodule for my Godot projects.
 
 ## Curve Tween
 
-A tween that let's you select a custom easing shape with a Curve.
+A `Tween` that let's you select a custom easing shape with a `Curve`.
 
 ## Juicy Cam
 
-A camera using noise and trauma for better screenshake.
+A `Camera2D` using noise and trauma for better screenshake.
 
 ## ParticleQueue
 
-A particle handler that let's you have multiple concurrent copies of a oneshot particle.
+A `Particle` handler that let's you have concurrent copies of a oneshot particle.
 
-## particle assets
+## common assets (to be depracated)
 
-## assetlib reminder
+A selection of assets including particles, fonts and common image files. These have been either created by myself or procured from CCO sources.
+
+## recommended AssetLib tools
 
 - ColorPallete
 - Dialogic
